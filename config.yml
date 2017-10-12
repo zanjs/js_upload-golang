@@ -1,0 +1,6 @@
+app:
+    name: js_upload
+    port: 11323
+
+upload:
+    path: C:/Users/Anla-E/go/src/anla.io/js_upload/
